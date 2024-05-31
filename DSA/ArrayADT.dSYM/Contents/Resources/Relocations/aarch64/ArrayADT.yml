@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/kartiksuryavanshi/Desktop/DSA/ArrayADT'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _createArray, symObjAddr: 0x0, symBinAddr: 0x100003D6C, symSize: 0x50 }
+  - { offsetInCU: 0x4D, offset: 0x4D, size: 0x8, addend: 0x0, symName: _createArray, symObjAddr: 0x0, symBinAddr: 0x100003D6C, symSize: 0x50 }
+  - { offsetInCU: 0x8D, offset: 0x8D, size: 0x8, addend: 0x0, symName: _show, symObjAddr: 0x50, symBinAddr: 0x100003DBC, symSize: 0x7C }
+  - { offsetInCU: 0xCD, offset: 0xCD, size: 0x8, addend: 0x0, symName: _setVal, symObjAddr: 0xCC, symBinAddr: 0x100003E38, symSize: 0x9C }
+  - { offsetInCU: 0x11B, offset: 0x11B, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x168, symBinAddr: 0x100003ED4, symSize: 0x64 }
+...

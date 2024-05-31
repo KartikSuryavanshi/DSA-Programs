@@ -1,0 +1,8 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/kartiksuryavanshi/Desktop/DSA/linkedlistTraversal'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _linkedListTraversal, symObjAddr: 0x0, symBinAddr: 0x100003E74, symSize: 0x64 }
+  - { offsetInCU: 0x6E, offset: 0x6E, size: 0x8, addend: 0x0, symName: _linkedListTraversal, symObjAddr: 0x0, symBinAddr: 0x100003E74, symSize: 0x64 }
+  - { offsetInCU: 0x92, offset: 0x92, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x64, symBinAddr: 0x100003ED8, symSize: 0xA8 }
+...
