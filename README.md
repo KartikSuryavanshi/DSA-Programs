@@ -1,144 +1,132 @@
-# 📘 DSA-Programs (C Language)
+# 📘 DSA-Programs
 
 ## 👤 Author
-Kartik Suryavanshi
+**Kartik Suryavanshi**
 
 ---
 
 ## 📌 About This Repository
-This repository contains my **implementation of core Data Structures and Algorithms (DSA) using the C programming language**.
+This repository contains my **implementation of Data Structures and Algorithms (DSA)** using **C programming**, along with **theoretical reference material** in PDF format.
 
-It focuses on **learning DSA concepts through hands-on coding**, covering both **theoretical understanding and practical implementation**.
+It is designed as a **practice + reference repository**, combining:
+- Core DSA implementations
+- Algorithmic problem-solving
+- Conceptual understanding through PDFs
+- Java fundamentals required for DSA
 
-Along with code, this repository also includes **two comprehensive PDF resources** that explain **all major DSA concepts in detail**, making this a **complete learning reference**.
-
----
-
-## 📂 Topics Covered
-
-### 🔹 Arrays
-- Array ADT implementation
-- Basic array operations
-
-Files:
-- `ArrayADT.c`
+This repo reflects my learning journey and serves as a **revision-friendly DSA resource**.
 
 ---
 
-### 🔹 Linked Lists
-- Singly Linked List
-- Doubly Linked List
-- Circular Linked List
-- Insertion and deletion operations
-- Traversal techniques
+## 🧠 What This Repository Contains
 
-Files:
-- `linkedlistTraversal.c`
-- `insertioninlinkedlist.c`
-- `deletioninlinkedlist.c`
-- `doublyll.c`
-- `circularll.c`
+### 🔹 DSA Implementations (C Language)
+The repository includes hands-on implementations of major DSA topics such as:
 
----
+- Arrays & Array ADT
+- Linked Lists  
+  - Singly Linked List  
+  - Doubly Linked List  
+  - Circular Linked List
+- Stack  
+  - Stack using Array  
+  - Stack using Linked List  
+  - Stack operations (peek, top, bottom)
+- Queue  
+  - Simple Queue  
+  - Circular Queue  
+  - Queue using Linked List
+- Trees  
+  - Binary Tree (Traversal: Inorder, Preorder, Postorder)  
+  - Binary Search Tree (Insertion, Deletion, Searching)  
+  - AVL Trees
+- Graph Algorithms  
+  - BFS (Breadth First Search)  
+  - DFS (Depth First Search)
+- Sorting Algorithms  
+  - Bubble Sort  
+  - Selection Sort  
+  - Insertion Sort  
+  - Merge Sort  
+  - Quick Sort  
+  - Count Sort
+- Searching Algorithms  
+  - Linear Search  
+  - Binary Search
+- Expression & Stack Problems  
+  - Infix to Postfix  
+  - Parenthesis Matching  
+  - Multiple Parenthesis Checking
 
-### 🔹 Stacks
-- Stack using array
-- Stack using linked list
-- Stack operations (push, pop, peek)
-- Parenthesis matching
-- Infix to postfix conversion
-
-Files:
-- `stack_using_array.c`
-- `stack_usingll.c`
-- `stack_operation.c`
-- `peek_stack.c`
-- `parenthsis_matching.c`
-- `multiple_parenthesis.c`
-- `infix_to_postfix.c`
-
----
-
-### 🔹 Queues
-- Queue using array
-- Circular queue
-- Queue using linked list
-
-Files:
-- `queue.c`
-- `circular_queue.c`
-- `queue_usingll.c`
+Each program focuses on **clear logic and algorithmic understanding**.
 
 ---
 
-### 🔹 Trees
-- Binary Tree representation
-- Binary Search Tree (BST)
-- AVL Trees
-- Tree traversals:
-  - Inorder
-  - Preorder
-  - Postorder
-- Insertion, deletion, and searching in BST
+## 📄 PDF Resources Included
 
-Files:
-- `BST.c`
-- `insertion_BST.c`
-- `deletion_BST.c`
-- `searchingInBST.c`
-- `search_Itreative_BST.c`
-- `AVLtrees.c`
-- `inOrder_Binary.c`
-- `preOrderBinaryTree.c`
-- `post_OrderBinaryTree.c`
-- `rep_binaryTree(linked).c`
+### 📘 Data Structures & Algorithms (Theory)
+This repository includes **two complete PDFs** covering **all major DSA concepts**:
+
+- **Data Structures and Algorithms – Part 1**
+- **Data Structures and Algorithms – Part 2**
+
+These PDFs cover:
+- Conceptual explanations
+- Algorithm logic
+- Time & space complexity
+- Examples for better understanding
 
 ---
 
-### 🔹 Graph Traversal
-- Breadth First Search (BFS)
-- Depth First Search (DFS)
+### ☕ Java for DSA – Core Concepts
+In addition to C-based DSA programs, the repository also includes a PDF focused on **Java fundamentals required for DSA**:
 
-Files:
-- `BFS.c`
-- `DFS.c`
+📄 **DSA in Java – Core Concepts**
 
----
+This PDF covers:
+- Variables & Data Types
+- Conditional Statements
+- Loops (for, while)
+- Functions / Methods
+- Arrays & Strings
+- ArrayList (Dynamic Arrays)
+- OOP basics (Class, Object, Constructor)
+- Memory behavior in Java
+- Recursion fundamentals
+- Time & Space Complexity (Big-O)
 
-### 🔹 Searching Algorithms
-- Linear Search
-- Binary Search
-
-Files:
-- `LinearBinary.c`
-
----
-
-### 🔹 Sorting Algorithms
-- Bubble Sort
-- Selection Sort
-- Insertion Sort
-- Merge Sort
-- Quick Sort
-- Count Sort
-
-Files:
-- `Bubble_sort.c`
-- `selection_sort.c`
-- `insertion_sort.c`
-- `merge_sort.c`
-- `quick_sort.c`
-- `count_sort.c`
+This makes the repository useful for **DSA in both C and Java**.
 
 ---
 
-## 📚 DSA Concept PDFs
-This repository includes **two detailed PDF documents** that cover **all major Data Structures and Algorithms concepts**, from basics to advanced topics.
-
-- **Data Structures and Algorithms – Part 1 (PDF)**  
-  Covers fundamental concepts such as arrays, linked lists, stacks, queues, and recursion.
-
-- **Data Structures and Algorithms – Part 2 (PDF)**  
-  Covers advanced concepts such as trees, graphs, searching, sorting algorithms, and complexity analysis.
+## 🛠 Languages & Tools Used
+- **C Programming**
+- **Java (Conceptual for DSA)**
+- **DSA & Algorithm Design**
+- **PDF-based Theory Reference**
 
 ---
+
+## 🚀 How to Use This Repository
+1. Clone the repository
+2. Open any `.c` file and run it using a C compiler
+3. Refer to the PDFs for theory and concept clarity
+4. Practice modifying and optimizing the programs
+
+---
+
+## 🎯 Purpose of This Repository
+- Strengthen **DSA fundamentals**
+- Prepare for **coding interviews**
+- Build strong **problem-solving skills**
+- Maintain a **single place for DSA practice + theory**
+
+---
+
+## 📜 License
+This repository is for **learning and educational purposes**.
+
+---
+
+## ⭐ Note
+This repository represents my **DSA learning journey** and will continue to evolve as I improve my understanding and implementations.
