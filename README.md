@@ -12,8 +12,7 @@ It is designed as a **practice + reference repository**, combining:
 - Core DSA implementations  
 - Algorithmic problem-solving  
 - Conceptual understanding through PDFs  
-- Java fundamentals required for DSA  
-- System Design interview preparation resources  
+- Java fundamentals required for DSA   
 
 This repo reflects my learning journey and serves as a **revision-friendly DSA & System Design resource**.
 
@@ -100,28 +99,9 @@ This makes the repository useful for **DSA in both C and Java**.
 
 ---
 
-### 🏗️ System Design – Interview Preparation
-This repository also includes **two System Design interview preparation books** in PDF format:
-
-- 📘 **System Design Interview – An Insider’s Guide**
-- 📘 **System Design Interview – Volume 2**
-
-These books cover:
-- System design fundamentals  
-- Scalability & performance considerations  
-- Database design & data modeling  
-- Caching, load balancing, sharding  
-- Real-world system design problems  
-- End-to-end design of large-scale systems  
-
-These resources are highly useful for **SDE interviews**, especially for **mid to senior-level roles**.
-
----
-
 ## 🛠 Languages & Tools Used
 - **C Programming**
 - **Java (Conceptual for DSA)**
 - **DSA & Algorithm Design**
-- **System Design Fundamentals**
 - **PDF-based Theory Reference**
 
