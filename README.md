@@ -9,12 +9,13 @@
 This repository contains my **implementation of Data Structures and Algorithms (DSA)** using **C programming**, along with **theoretical reference material** in PDF format.
 
 It is designed as a **practice + reference repository**, combining:
-- Core DSA implementations
-- Algorithmic problem-solving
-- Conceptual understanding through PDFs
-- Java fundamentals required for DSA
+- Core DSA implementations  
+- Algorithmic problem-solving  
+- Conceptual understanding through PDFs  
+- Java fundamentals required for DSA  
+- System Design interview preparation resources  
 
-This repo reflects my learning journey and serves as a **revision-friendly DSA resource**.
+This repo reflects my learning journey and serves as a **revision-friendly DSA & System Design resource**.
 
 ---
 
@@ -56,7 +57,7 @@ The repository includes hands-on implementations of major DSA topics such as:
 - Expression & Stack Problems  
   - Infix to Postfix  
   - Parenthesis Matching  
-  - Multiple Parenthesis Checking
+  - Multiple Parenthesis Checking  
 
 Each program focuses on **clear logic and algorithmic understanding**.
 
@@ -71,10 +72,10 @@ This repository includes **two complete PDFs** covering **all major DSA concepts
 - **Data Structures and Algorithms – Part 2**
 
 These PDFs cover:
-- Conceptual explanations
-- Algorithm logic
-- Time & space complexity
-- Examples for better understanding
+- Conceptual explanations  
+- Algorithm logic  
+- Time & space complexity  
+- Examples for better understanding  
 
 ---
 
@@ -84,18 +85,36 @@ In addition to C-based DSA programs, the repository also includes a PDF focused 
 📄 **DSA in Java – Core Concepts**
 
 This PDF covers:
-- Variables & Data Types
-- Conditional Statements
-- Loops (for, while)
-- Functions / Methods
-- Arrays & Strings
-- ArrayList (Dynamic Arrays)
-- OOP basics (Class, Object, Constructor)
-- Memory behavior in Java
-- Recursion fundamentals
-- Time & Space Complexity (Big-O)
+- Variables & Data Types  
+- Conditional Statements  
+- Loops (for, while)  
+- Functions / Methods  
+- Arrays & Strings  
+- ArrayList (Dynamic Arrays)  
+- OOP basics (Class, Object, Constructor)  
+- Memory behavior in Java  
+- Recursion fundamentals  
+- Time & Space Complexity (Big-O)  
 
 This makes the repository useful for **DSA in both C and Java**.
+
+---
+
+### 🏗️ System Design – Interview Preparation
+This repository also includes **two System Design interview preparation books** in PDF format:
+
+- 📘 **System Design Interview – An Insider’s Guide**
+- 📘 **System Design Interview – Volume 2**
+
+These books cover:
+- System design fundamentals  
+- Scalability & performance considerations  
+- Database design & data modeling  
+- Caching, load balancing, sharding  
+- Real-world system design problems  
+- End-to-end design of large-scale systems  
+
+These resources are highly useful for **SDE interviews**, especially for **mid to senior-level roles**.
 
 ---
 
@@ -103,30 +122,6 @@ This makes the repository useful for **DSA in both C and Java**.
 - **C Programming**
 - **Java (Conceptual for DSA)**
 - **DSA & Algorithm Design**
+- **System Design Fundamentals**
 - **PDF-based Theory Reference**
 
----
-
-## 🚀 How to Use This Repository
-1. Clone the repository
-2. Open any `.c` file and run it using a C compiler
-3. Refer to the PDFs for theory and concept clarity
-4. Practice modifying and optimizing the programs
-
----
-
-## 🎯 Purpose of This Repository
-- Strengthen **DSA fundamentals**
-- Prepare for **coding interviews**
-- Build strong **problem-solving skills**
-- Maintain a **single place for DSA practice + theory**
-
----
-
-## 📜 License
-This repository is for **learning and educational purposes**.
-
----
-
-## ⭐ Note
-This repository represents my **DSA learning journey** and will continue to evolve as I improve my understanding and implementations.
