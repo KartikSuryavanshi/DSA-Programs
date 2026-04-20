@@ -1,11 +1,7 @@
-# 📘 DSA-Programs
+# DSA-Programs
 
-## 👤 Author
-**Kartik Suryavanshi**
 
----
-
-## 📌 About This Repository
+## About This Repository
 This repository contains my **implementation of Data Structures and Algorithms (DSA)** using **C programming**, along with **theoretical reference material** in PDF format.
 
 It is designed as a **practice + reference repository**, combining:
@@ -16,11 +12,9 @@ It is designed as a **practice + reference repository**, combining:
 
 This repo reflects my learning journey and serves as a **revision-friendly DSA & System Design resource**.
 
----
+## What This Repository Contains
 
-## 🧠 What This Repository Contains
-
-### 🔹 DSA Implementations (C Language)
+### DSA Implementations (C Language)
 The repository includes hands-on implementations of major DSA topics such as:
 
 - Arrays & Array ADT
@@ -60,11 +54,9 @@ The repository includes hands-on implementations of major DSA topics such as:
 
 Each program focuses on **clear logic and algorithmic understanding**.
 
----
+## PDF Resources Included
 
-## 📄 PDF Resources Included
-
-### 📘 Data Structures & Algorithms (Theory)
+### Data Structures & Algorithms (Theory)
 This repository includes **two complete PDFs** covering **all major DSA concepts**:
 
 - **Data Structures and Algorithms – Part 1**
@@ -76,12 +68,10 @@ These PDFs cover:
 - Time & space complexity  
 - Examples for better understanding  
 
----
-
-### ☕ Java for DSA – Core Concepts
+### Java for DSA – Core Concepts
 In addition to C-based DSA programs, the repository also includes a PDF focused on **Java fundamentals required for DSA**:
 
-📄 **DSA in Java – Core Concepts**
+**DSA in Java – Core Concepts**
 
 This PDF covers:
 - Variables & Data Types  
@@ -97,9 +87,7 @@ This PDF covers:
 
 This makes the repository useful for **DSA in both C and Java**.
 
----
-
-## 🛠 Languages & Tools Used
+## Languages & Tools Used
 - **C Programming**
 - **Java (Conceptual for DSA)**
 - **DSA & Algorithm Design**
